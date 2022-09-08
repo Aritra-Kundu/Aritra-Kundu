@@ -2,7 +2,7 @@
 - 👀 I’m interested in Astrophysics and Cosmology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - aritra8354@gmail.com, aritra.phys@gmail.com
+- 📫 How to reach me - aritra@sas.upenn.edu, aritra.phys@gmail.com
 
 <!---
 Aritra-Kundu/Aritra-Kundu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
